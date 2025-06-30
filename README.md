@@ -17,3 +17,4 @@ Welcome to the Pokédex App! This interactive application lets you explore the w
 This project was crafted using Mimo's coding platform, focusing on modular design and responsive UI for an enjoyable user experience.
 
 ## Screenshot
+<img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Pokemon.png" alt="screenshot">
